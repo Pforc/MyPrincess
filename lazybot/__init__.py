@@ -1,6 +1,3 @@
-   
-
-    # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
 import logging
 import logging.config
 logging.config.fileConfig('logging.conf')
