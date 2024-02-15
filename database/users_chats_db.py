@@ -150,12 +150,8 @@ class Database:
 
     async def get_db_size(self):
         return (await self.db.command("dbstats"))['dataSize']
-    
-    # Credit @LazyDeveloper.
-    # Please Don't remove credit.
-        # Born to make history @LazyDeveloper ! => Remember this name forever <=
 
-    # Thank you LazyDeveloper for helping us in this Journey
+    
     # Just for url Uploading feature
 
     async def set_apply_caption(self, id, apply_caption):
@@ -201,8 +197,7 @@ class Database:
                 return None
         except Exception as e:
             print(e)
-    # Born to make history @LazyDeveloper ! => Remember this name forever <=
-
+    
     async def set_caption(self, id, caption):
         await self.col.update_one({'id': int(id)}, {'$set': {'caption': caption}})
 
