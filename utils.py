@@ -1,10 +1,4 @@
-# Credit @LazyDeveloper.
-# Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from info import *
@@ -438,7 +432,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 # async def get_cap(settings, remaining_seconds, files, query, total_results, search):
-#     # Aᴅᴅᴇᴅ Bʏ @creatorrio
+#     # Aᴅᴅᴇᴅ Bʏ @termuxro
 #     if settings["imdb"]:
 #         IMDB_CAP = temp.IMDB_CAP.get(query.from_user.id)
 #         if IMDB_CAP:
@@ -500,10 +494,3 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-# Credit @LazyDeveloper.
-# Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
