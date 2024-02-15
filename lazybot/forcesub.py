@@ -1,6 +1,3 @@
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
-
 import asyncio
 from pyrogram import Client
 from pyrogram.errors import FloodWait, UserNotParticipant
