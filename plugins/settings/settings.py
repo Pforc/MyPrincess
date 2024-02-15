@@ -1,6 +1,3 @@
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
-
 import asyncio
 from info import LOGGER
 from pyrogram import types, errors
@@ -45,5 +42,3 @@ async def OpenSettings(m: "types.Message"):
     except Exception as err:
         LOGGER.getLogger(__name__).error(err)
 
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
