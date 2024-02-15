@@ -2,16 +2,16 @@ class script(object):
     START_TXT = """Hello {},
 Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/searchdownloader >Developer's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/searchdownloader>Dev Channel</a> and stay tuned for next <a href=https://t.me/searchdownloader>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/termuxro> Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/termuxro >LazyDeveloper's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/searchdownloader>Dev Channel</a> and stay tuned for next <a href=https://t.me/searchdownloader>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/teermuxro> Support</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/termuxro >Developer's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/termuxro> Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/searchdownloader >Developer's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/searchdownloader>Dev Channel</a> and stay tuned for next <a href=https://t.me/searchdownloader>update</a>.\n\n  🐞 Report Bug here: <a href=https://t.me/searchdownloader>Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/termuxro >Developer's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/termuxro>Click here...</a>\n\nT❤️ hank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/searchdownloader >Developer's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=https://t.me/searchdownloader>Click here...</a>\n\nT❤️ hank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
+\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/searchdownloader>Developer Support</a>\n\n
     """
     
     TEXT = "sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴛᴏ sᴇᴛ ɪᴛ"
@@ -28,7 +28,7 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 
     UPLOAD_START = "<b>initiating Lazy Upload ⚡</b>"
 
-    LAZY_UPLOAD_START = """<b>●❤♡ Recieving  File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
+    LAZY_UPLOAD_START = """<b>●❤♡ Recieving File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "▼ Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n▲ Uᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs\n\n★.•☆•.★𑁔𑁔★ 𝖽𝖾𝗍✫𝗂𝗅𝗌 ★𑁔𑁔★.•☆•.★\n\n🔗<b>URL:</b> {}\n\n✩📂<b>F Name:</b> `{}`\n\n✩📝<b>C Name:</b> `{}`\n\n🧬**File Size:** `{}`\n\n🧡Thank you🧡"
 
@@ -39,7 +39,30 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
 
-   
+    LAZY_URL_HELP_TXT = """
+🧬 How to index database channel 
+➪ Add me to your database channel as ADMIN and send me the last media from you db channel with quote. 
+
+🧬 How to set thumbnail for renaming media
+➪ Send me a photo and reply that photo with cmd /st or /set_thumb or /set_thumbnail
+
+🧬 How to set thumbnail for URL Downloading
+➪ Send me a photo and reply that photo with cmd /slt or /set_lazy_thumb or /set_lazy_thumbnail
+
+🧬 How to show normal thumbnail
+➪ Send /vt or /veiw_thumb or /view_thumbnail
+
+🧬 How To Delete normal Thumbnail
+➪ Send /dt or /del_thumb or /delete_thumb
+
+🧬 How To Delete URL Thumbnail
+➪ Send /dlt or /del_lazy_thumb or /delete_lazy_thumb
+
+🧬 How to Rename any Media
+➪ Send me a video or document i will provide you renaming function
+
+🧬 How To Upload File Or Media using url
+➪ Send me any direct download link of your file.
 
 """
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -50,11 +73,9 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v10.0.0 [ 𝙱𝙴𝚃𝙰 ]"""
 
 
-<b>DEV:</b>
-- 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
+- Filter is the feature were users can set automated replies for a particular keyword and bot will respond whenever that keyword hits the message
 
 <b>NOTE:</b>
 1. BOT should have admin privillage.
@@ -76,7 +97,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/searchdownloader)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
